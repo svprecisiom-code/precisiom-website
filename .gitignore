@@ -1,0 +1,15 @@
+node_modules
+dist
+.vite
+.vercel
+.shots
+vibe_images
+design-system
+*.qoder.site
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
+npm-debug.log*
+yarn-error.log*

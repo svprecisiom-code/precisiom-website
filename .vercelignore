@@ -1,0 +1,9 @@
+node_modules
+dist
+.shots
+vibe_images
+design-system
+*.qoder.site
+.git
+.env
+.env.*
