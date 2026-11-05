@@ -51,7 +51,7 @@ export default function Product() {
           <h2>A blood pressure monitor designed around the person using it.</h2>
           <p className="section__lede">
             Affordable, connected, and built for guided self-measurement — RaktaBeat brings clinical-grade
-            design intent to homes, clinics, and community health programmes.
+            design intent to homes, clinics, and community health programmes across Goa and India.
           </p>
         </Reveal>
 

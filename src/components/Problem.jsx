@@ -13,7 +13,7 @@ export default function Problem() {
           <h2>Hypertension is common. Reliable measurement isn&rsquo;t.</h2>
           <p className="section__lede">
             Home monitoring only works when the device is accurate, the user is guided, and the reading reaches
-            someone who can act on it. Today, too often, none of the three are true.
+            someone who can act on it. In Goa and across India, too often, none of the three are true.
           </p>
           <div className="problem__callout">
             <strong>90–95%</strong>

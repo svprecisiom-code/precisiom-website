@@ -107,7 +107,8 @@ export default function Contact() {
           <h2>Bring precision to more homes.</h2>
           <p className="section__lede">
             Whether you are planning a clinical pilot, exploring distribution, or evaluating an investment, write to
-            us and we will route it to the right person.
+            us and we will route it to the right person. Based in Sanquelim, North Goa, we work with clinics, health
+            programmes, and partners across Goa and India.
           </p>
 
           <div className="contact__details">

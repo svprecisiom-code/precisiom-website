@@ -12,9 +12,9 @@ export default function Platform() {
           <p className="eyebrow">The RPM platform</p>
           <h2>From any monitor to the right clinician.</h2>
           <p className="section__lede">
-            RaktaBeat is the device people touch. Behind it, we are building a remote patient monitoring platform
-            that captures readings from the equipment already in use, moves them through a clean data path, and puts
-            them in front of the people who can act.
+            RaktaBeat is the device people touch. Behind it, we are building a remote patient monitoring platform — built in Goa for the PHC and CHC network across India — that captures readings from the
+            equipment already in use, moves them through a clean data path, and puts them in front of the people
+            who can act.
           </p>
         </Reveal>
 

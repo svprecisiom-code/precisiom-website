@@ -224,7 +224,8 @@ export default function Hero() {
 
             <h1>Your Complete Health Line to Family and Clinic.</h1>
             <p className="hero-v2__sub">
-              We transform care with intelligent, connected solutions that empower to make life-saving decisions with confidence and speed.
+              Connected blood pressure monitoring for homes, PHCs, and CHCs — built in Goa for India's primary care
+              network.
             </p>
 
             <div className="hero-v2__actions">
