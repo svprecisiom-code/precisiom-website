@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://precisiom-website.vercel.app/sitemap.xml
+Sitemap: https://www.precisiom.in/sitemap.xml
